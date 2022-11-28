@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saakshi!
 - 👀 I’m interested in the fields of Software Development and Cybersecurity
-- 🌱 I’m currently learning fundamentals of security and cryptography
+- 🌱 I’m currently learning Fundamentals of Security and Cryptography
 - 📫 Feel free to reach out to me at sarafsaakshivinod@gmail.com if you have similar interests and would like to collaborate!
 
 <!---
