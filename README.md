@@ -1,6 +1,6 @@
  👋 Hi, I’m Saakshi!
  
- 👀 I’m interested in the fields of Software Development and Cybersecurity
+ 👀 I’m interested in the fields of Software Development, Cybersecurity and Artificial Intelligence
  
  🌱 I’m currently exploring the fields of Data Science and Machine Learning
  
